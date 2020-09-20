@@ -1,5 +1,5 @@
 <h3>Olá! Hola! Hello!</h3>
- <h1>I'm Filipe!</h1>
+ <h2>I'm Filipe!</h2>
 
 <p> 🌍 Global citizen living in Brazil!</p>
 <p> 🌱 Agroforestry gardener in my spare time...</p>
