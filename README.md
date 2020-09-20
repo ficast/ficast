@@ -19,7 +19,7 @@ accelerating their digital transformation!</p>
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:filipeyoga@gmail.com)](mailto:filipeyoga@gmail.com)
 
 <!--START_SECTION:waka-->
-name: Waka Readme
+<!-- name: Waka Readme
 
 on:
   schedule:
@@ -34,6 +34,6 @@ jobs:
       - uses: anmol098/waka-readme-stats@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          GH_TOKEN: ${{ secrets.GH_TOKEN }} -->
 
 <!--END_SECTION:waka-->
