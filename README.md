@@ -3,7 +3,7 @@
 
 <p> 🌍 Global citizen living in Brazil!</p>
 <p> 🌱 Agroforestry gardener in my spare time...</p>
-<p> 👩🏽‍💻 Full-stack developer:</p>
+<p> 👨‍💻 Full-stack developer:</p>
 <p>  HTML 5 | CSS 3 | JavaScript ES6 | TypeScript | ReactJS | React-Native | NodeJS | Redux | Hooks | Saga | RTL | Jest | MySQL | MongoDB
 </p>
 <p> 🚀 I’m currently working at <a
