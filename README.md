@@ -29,8 +29,6 @@ const ficast = {
 ```
 <!--START_SECTION:waka-->
 ```text
-Week: 13 September, 2020 - 20 September, 2020
-
 Markdown     13 mins         ██████████▓░░░░░░░░░░░░░░   42.52 % 
 TypeScript   8 mins          ███████░░░░░░░░░░░░░░░░░░   28.11 % 
 YAML         7 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.19 % 
