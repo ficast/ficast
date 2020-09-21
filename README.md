@@ -28,12 +28,6 @@ const ficast = {
 };
 ```
 <!--START_SECTION:waka-->
-```text
-Markdown     13 mins         ██████████▓░░░░░░░░░░░░░░   42.52 % 
-TypeScript   8 mins          ███████░░░░░░░░░░░░░░░░░░   28.11 % 
-YAML         7 mins          █████▓░░░░░░░░░░░░░░░░░░░   23.19 % 
-HTML         1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
-```
 <!--END_SECTION:waka-->
 
 
