@@ -24,7 +24,7 @@ const ficast = {
     misc: ["Redux", "Saga", "Git", "CodeCommit"],
   },
   architecture: ["Atomic Design", "Single page applications"],
-  currentFocus: "Backend with NodeJS API",
+  currentFocus: "Backend with NodeJS",
 };
 ```
 
