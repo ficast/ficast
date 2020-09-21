@@ -1,7 +1,7 @@
 <h4>Olá! Hola! Hello!</h4>
  <h2>I'm Filipe!</h2>
 
-<p> 🚀 Software developer at <a href="ttps://www.dtidigital.com.br/" alt="dti digital">dti digital</a></p>
+<p> 🚀 Software developer at <a href="https://www.dtidigital.com.br/" alt="dti digital">dti digital</a></p>
 
 <p> 🌍 Earth Inhabitant living in Brazil!</p>
 <p> 🌱 Agroforestry gardener in my spare time...</p>
