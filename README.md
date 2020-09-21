@@ -27,12 +27,6 @@ const ficast = {
   currentFocus: "Backend with NodeJS",
 };
 ```
-
-<h4>You can find me on:</h4>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ficast/)](https://www.linkedin.com/in/ficast/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:filipeyoga@gmail.com)](mailto:filipeyoga@gmail.com)
-
 <!--START_SECTION:waka-->
 ```text
 Week: 13 September, 2020 - 20 September, 2020
@@ -43,3 +37,9 @@ YAML         7 mins          █████▓░░░░░░░░░░░
 HTML         1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.18 % 
 ```
 <!--END_SECTION:waka-->
+
+
+<h4>You can find me on:</h4>
+
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ficast/)](https://www.linkedin.com/in/ficast/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:filipeyoga@gmail.com)](mailto:filipeyoga@gmail.com)
