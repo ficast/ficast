@@ -1,17 +1,32 @@
 <h4>Olá! Hola! Hello!</h4>
  <h2>I'm Filipe!</h2>
 
+<p> 🚀 Software developer at <a href="ttps://www.dtidigital.com.br/" alt="dti digital">dti digital</a></p>
+
 <p> 🌍 Earth Inhabitant living in Brazil!</p>
 <p> 🌱 Agroforestry gardener in my spare time...</p>
 <p> 👨‍💻 Full-stack developer:</p>
-<p>  HTML 5 | CSS 3 | JavaScript ES6 | TypeScript | ReactJS | React-Native | NodeJS | Redux | Hooks | Saga | RTL | Jest | MySQL | MongoDB
-</p>
-<p> 🚀 I’m currently working at <a
-    href="ttps://www.dtidigital.com.br/" 
-    alt="dti digital"
-  >dti digital
-  </a>  helping other organizations 
-accelerating their digital transformation!</p>
+
+```javascript
+const ficast = {
+  code: ["Javascript", "Typescript"],
+  askMeAbout: ["permaculture", "music", "vegan food", "web dev"],
+  technologies: {
+    mobileApp: ["React-native"],
+    frontEnd: {
+      js: ["React"],
+      css: ["material-ui", "bootstrap"],
+    },
+    backEnd: {
+      js: ["node", "express"],
+    },
+    databases: ["mongo", "MySql"],
+    misc: ["Redux", "Saga", "Git", "CodeCommit"],
+  },
+  architecture: ["Atomic Design", "Single page applications"],
+  currentFocus: "Backend with NodeJS API",
+};
+```
 
 <h4>You can find me on:</h4>
 
