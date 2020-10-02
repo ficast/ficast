@@ -30,10 +30,12 @@ const ficast = {
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+<p> 👨‍💻 Languages used since Sep 2020:</p>
+<figure><img width='200px' src="https://wakatime.com/share/@30d83f22-b54f-4a92-8afa-0321272de226/e4e71a34-90d6-4e06-bfe4-3bf368a43764.svg" /><figure>
 
 <h4>You can find me on:</h4>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ficast/)](https://www.linkedin.com/in/ficast/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:filipeyoga@gmail.com)](mailto:filipeyoga@gmail.com)
 
-<figure><img src="https://wakatime.com/share/@30d83f22-b54f-4a92-8afa-0321272de226/e4e71a34-90d6-4e06-bfe4-3bf368a43764.svg" /><figure>
+
