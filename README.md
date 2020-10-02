@@ -36,4 +36,4 @@ const ficast = {
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ficast/)](https://www.linkedin.com/in/ficast/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:filipeyoga@gmail.com)](mailto:filipeyoga@gmail.com)
 
-<figure><img src="https://wakatime.com/share/@30d83f22-b54f-4a92-8afa-0321272de226/a5f1bb2b-da85-4781-9b3c-c785c79a97f1.svg" /><figure>
+<figure><img src="https://wakatime.com/share/@30d83f22-b54f-4a92-8afa-0321272de226/e4e71a34-90d6-4e06-bfe4-3bf368a43764.svg" /><figure>
