@@ -31,7 +31,7 @@ const ficast = {
 <!--END_SECTION:waka-->
 
 <p> 👨‍💻 Languages used since Sep 2020:</p>
-<figure><img width='50%' src="https://wakatime.com/share/@30d83f22-b54f-4a92-8afa-0321272de226/e4e71a34-90d6-4e06-bfe4-3bf368a43764.svg" /><figure>
+<figure><img width='80%' src="https://wakatime.com/share/@30d83f22-b54f-4a92-8afa-0321272de226/e4e71a34-90d6-4e06-bfe4-3bf368a43764.svg" /><figure>
 
 <h4>You can find me on:</h4>
 
