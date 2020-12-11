@@ -9,8 +9,8 @@
 
 ```javascript
 const ficast = {
-  code: ["Javascript", "Typescript"],
-  askMeAbout: ["permaculture", "music", "vegan food", "web dev"],
+  code: ["Javascript", "Typescript", "Python"],
+  askMeAbout: ["permaculture", "music", "vegan food", "web dev", "data science"],
   technologies: {
     mobileApp: ["React-native"],
     frontEnd: {
@@ -18,13 +18,13 @@ const ficast = {
       css: ["material-ui", "bootstrap"],
     },
     backEnd: {
-      js: ["node", "express"],
+      js: ["nodeJS", "expressJS"],
     },
     databases: ["mongo", "MySql"],
-    misc: ["Redux", "Redux-Saga", "Git", "CodeCommit"],
+    misc: ["Redux", "Redux-Saga", "Git", "AWS"],
   },
-  architecture: ["Atomic Design", "Single page applications"],
-  currentFocus: "Backend with NodeJS",
+  architecture: ["Atomic Design", "SPA", "MVP"],
+  currentFocus: "Analytics with Python",
 };
 ```
 <!--START_SECTION:waka-->
