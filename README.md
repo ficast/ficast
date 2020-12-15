@@ -32,7 +32,7 @@ const ficast = {
 
 **🐱 My Github Data** 
 
-> 🏆 598 Contributions in the Year 2020
+> 🏆 599 Contributions in the Year 2020
  > 
 > 📦 154.8 kB Used in Github's Storage 
  > 
