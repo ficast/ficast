@@ -99,13 +99,6 @@ HTML                     1 repo              █░░░░░░░░░░�
 C                        1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   6.67%
 
 ```
-
-
-**Timeline**
-
-![Chart not found](https://raw.githubusercontent.com/ficast/ficast/master/charts/bar_graph.png) 
-
-
 <!--END_SECTION:waka-->
 
 <h4>You can find me on:</h4>
